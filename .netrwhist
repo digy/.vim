@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/digy/.mpd'
+let g:netrw_dirhist_2='/home/digy/intellij/wonder/WOBDA/.idea/inspectionProfiles'
+let g:netrw_dirhist_3='/home/digy/projects/unibz/cv'
